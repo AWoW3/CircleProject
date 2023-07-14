@@ -13,7 +13,7 @@ let config = {
   headers: { 
     'Content-Type': 'application/json', 
     'Accept': 'application/json', 
-    'Authorization': 'Bearer SAND_API_KEY:6351adf09736350cdbc672a2e190486f:a2bde6c1d330f6fe97efcc222ed17788'
+    'Authorization': 'Bearer  '
   },
   data : data
 };
