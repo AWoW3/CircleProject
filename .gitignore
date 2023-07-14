@@ -1,0 +1,17 @@
+node_modules
+cache
+.idea
+
+# ignore env files
+.environment
+.env
+
+
+
+
+
+
+
+
+
+
