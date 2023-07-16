@@ -29,5 +29,10 @@
 - Create and store safely circle API key by visiting the Sandbox API endpoint link- https://api-sandbox.circle.com
 - Save the account credentials/environment variables in .env file of your project.
 - Store the .env file in the gitignore file so that it's not pushed to the repo with the other necessary files.
-- Test the using Postman.
+- Test using Postman.
+
+### Architecture diagram
+
+<img width="2279" alt="circleAPI-architecture" src="https://github.com/AWoW3/CircleProject/assets/9214845/5e43e52e-b4a3-474b-93bd-29dd0f37a416">
+
 
