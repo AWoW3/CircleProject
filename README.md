@@ -16,7 +16,6 @@
 - Ensure nodejs is installed in your machine. if not, visit here and install according to your operating system: https://nodejs.org/en/download
 - Clone the project to your local machine.
 - Navigate to the project directory.
-- npm install @circle-fin/circle-sdk --save
 - Run `npm install` to install all the dependencies.
 
 ## Languages
